@@ -1,1 +1,6 @@
-nothing here......
+List: 
+
+List<string> list = new List<string>();     // create list
+string last = list[list.Count -1];          // get last item in the list
+list.Add                                    // add to list
+list.Count                                  // get list count
