@@ -1,7 +1,15 @@
-List: 
+LIST: 
 
-List<string> list = new List<string>();     // create list
-string last = list[list.Count -1];          // get last item in the list
-list.Add                                    // add to list
-list.Count                                  // get list count
-list.Contains(listItem)                     // checks if list has listItem -> True or False
+List<string> list = new List<string>();       // create list
+string last = list[list.Count -1];            // get last item in the list
+list.Add                                      // add to list
+list.Count                                    // get list count
+list.Contains(listItem)                       // checks if list has listItem -> True or False
+public static void Print(List<string> list)   // list as a method parameter
+
+ARRAY:
+
+int[] numbers = new int[3];                           // create array
+int[] numbers = {100, 1, 42};                         //
+int index = Array.IndexOf(yourArray, arrayValue);     // find index of item. return -1 if not found. otherwise returns item index
+public static void ListElements(int[] integerArray)   // array as a parameter of a method
