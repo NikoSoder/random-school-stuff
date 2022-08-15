@@ -13,3 +13,27 @@ int[] numbers = new int[3];                           // create array
 int[] numbers = {100, 1, 42};                         //
 int index = Array.IndexOf(yourArray, arrayValue);     // find index of item. return -1 if not found. otherwise returns item index
 public static void ListElements(int[] integerArray)   // array as a parameter of a method
+
+CLASS:
+
+List<Person> persons = new List<Person>();                // object list
+foreach (Person person in persons)
+
+Person john = new Person("John");
+persons.Add(john);
+
+persons.Add(new Person("Matthew"));
+
+using System;
+namespace sandbox
+{
+  public class Person
+  {
+    
+  }
+  
+  public override string ToString() 
+  {
+      return this.name + ", age " + this.age + " years";
+  }
+}
