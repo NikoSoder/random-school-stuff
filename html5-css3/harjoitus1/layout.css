@@ -1,0 +1,101 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+}
+
+section {
+  background-color: rgb(141, 195, 229);
+  margin-bottom: 1rem;
+}
+
+.border-section {
+  border: 1px solid black;
+}
+
+#punch {
+  float: left;
+  font-size: 500%;
+  width: 1.2em;
+  text-align: center;
+  padding: 0.1em 0.1em 0;
+  background-color: #568;
+  color: white;
+  border: 1px solid white;
+  border-width: 0 0.2em 0.2em 0;
+  margin: 0 0.5em 0.2em 0;
+}
+
+h1,
+p,
+pre,
+h2,
+h3,
+ul {
+  margin-bottom: 1rem;
+}
+
+figure {
+  width: 100px;
+}
+
+#suurennuslasi {
+  border: 1px solid black;
+  float: left;
+  width: 100px;
+  height: 70px;
+  text-align: center;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  border-width: 1px;
+  padding: 0 10px 5px 0;
+  margin: -1px 25px 10px -1px;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+.ylapalkki {
+  background-color: rgb(49, 184, 172);
+  text-align: right;
+  padding: 1rem;
+}
+
+#p-float {
+  border: 1px solid black;
+  float: left;
+  width: 450px;
+  height: 40px;
+  text-align: center;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  border-width: 1px;
+  padding: 0 10px 0 0;
+  margin: -1px 25px 10px -1px;
+  /*max-width: 100%;*/
+}
+
+#kommentti {
+  float: right;
+  width: 25%;
+  text-align: left;
+  font-size: 140%;
+  font-weight: bold;
+  font-style: italic;
+  padding: 1em;
+  text-indent: -0.5em;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  border-width: 1px 0 1px 1px;
+  margin: 0.2em -1px 0.2em 0.5em;
+}
