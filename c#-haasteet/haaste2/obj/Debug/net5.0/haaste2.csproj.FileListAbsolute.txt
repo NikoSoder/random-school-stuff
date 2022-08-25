@@ -1,0 +1,16 @@
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\haaste2.exe
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\haaste2.deps.json
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\haaste2.runtimeconfig.json
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\haaste2.runtimeconfig.dev.json
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\haaste2.dll
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\ref\haaste2.dll
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\bin\Debug\net5.0\haaste2.pdb
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.csproj.AssemblyReference.cache
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.AssemblyInfoInputs.cache
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.AssemblyInfo.cs
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.csproj.CoreCompileInputs.cache
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.dll
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\ref\haaste2.dll
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.pdb
+C:\Users\s2200710\OneDrive - Business College Helsinki\Desktop\repo\random.school.stuff\c#-haasteet\haaste2\obj\Debug\net5.0\haaste2.genruntimeconfig.cache
