@@ -1,0 +1,15 @@
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/bin/Debug/net6.0/haaste5
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/bin/Debug/net6.0/haaste5.deps.json
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/bin/Debug/net6.0/haaste5.runtimeconfig.json
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/bin/Debug/net6.0/haaste5.dll
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/bin/Debug/net6.0/haaste5.pdb
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.csproj.AssemblyReference.cache
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.AssemblyInfoInputs.cache
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.AssemblyInfo.cs
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.csproj.CoreCompileInputs.cache
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.dll
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/refint/haaste5.dll
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.pdb
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/haaste5.genruntimeconfig.cache
+/Users/s2200710/Documents/git-repo/random-school-stuff/c#-haasteet/haaste5/obj/Debug/net6.0/ref/haaste5.dll
