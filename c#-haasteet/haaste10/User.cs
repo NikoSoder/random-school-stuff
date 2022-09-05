@@ -19,7 +19,20 @@ public class User
                 break;
             }
         
-            Console.WriteLine("PIN code is locked.Type your PUK code");    
+            Console.WriteLine("PIN code is locked.Type your PUK code");
+            bool isPukCodeCorrect = PukCodeCheck();
+            if(isPukCodeCorrect) 
+            {
+                Console.WriteLine("Correct");
+                Console.WriteLine($"Your PIN code is {this.pinCode}");
+                Console.WriteLine("Try to login again.");
+                continue;
+            }
+            else 
+            {
+                Console.WriteLine("PUK code wrong. Shutting down...");
+                break;
+            }
         }
     }
 
@@ -29,14 +42,14 @@ public class User
 
         for (int i = 0; i < 4; i++)
         {
-            // if three wrong pin codes
+            // if three wrong PIN codes
             if(i == 3) 
             {
                 break;
             }
             string pcode = Console.ReadLine();
 
-            // if correct pin code
+            // if correct PIN code
             if(pcode == this.pinCode) 
             {
                 return true;
@@ -46,8 +59,24 @@ public class User
         return false;
     }
 
-    public void PukCodeCheck() 
+    public bool PukCodeCheck() 
     {
-        Console.WriteLine("Type your PUK code");
+        for (int i = 0; i < 4; i++)
+        {
+            // if three wrong PUK codes
+            if(i == 3) 
+            {
+                break;
+            }
+            string pukcode = Console.ReadLine();
+
+            // if correct PUK code
+            if(pukcode == this.pukCode) 
+            {
+                return true;
+            }
+            Console.WriteLine("Try again");
+        }
+        return false;
     }
 }
