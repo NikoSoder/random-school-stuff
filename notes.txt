@@ -1,3 +1,9 @@
+-git reset --hard (commit numero) -> palaa takaisin tiettyyn committiin
+-git checkout -- .    -> poistaa muutokset mitä ei ole commitetty
+-git revert (commit numero) -> poistaa tämän commitin mutta jättää sen commit 
+listaan
+
+
 LIST: 
 
 List<string> list = new List<string>();       // create list
